@@ -22,13 +22,15 @@ Crie uma função que adicione um valor à variável criada acima, e retorne a s
     O valor da variável agora é VALOR.
 Onde VALOR é o novo valor da variável.
 */
-?
+function newf(){
+newvar = 25;
+return `O valor da variavel agora é ${newvar}.`
 
 // Invoque a função criada acima.
-?
+newf()
 
 // Qual o retorno da função? (Use comentários de bloco).
-?
+'O valor da variavel agora é 25.' 
 
 /*
 Crie uma função com as seguintes características:
